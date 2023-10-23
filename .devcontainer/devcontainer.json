@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codespace for Sktills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Github.copilot"
+            ]
+        }
+    }
+}
